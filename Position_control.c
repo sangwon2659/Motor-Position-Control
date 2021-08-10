@@ -2,7 +2,7 @@
 #include <wiringPi.h>
 #include <softPwm.h>
 #include <math.h>
-#include <stdlib.h>
+#include <stdlib.h> 
 #include <string.h>
 #include <time.h>
  
